@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nanthachote chanabangkaew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nanthachote chanabangkaew" height="30" width="40" /></a>
+<a href="[https://fb.com/nanthachote chanabangkaew](https://www.facebook.com/nanthachote.chanabangkaew)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nanthachote chanabangkaew" height="30" width="40" /></a>
 <a href="https://instagram.com/m_nch_99p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_nch_99p" height="30" width="40" /></a>
 </p>
 

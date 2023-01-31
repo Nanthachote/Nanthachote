@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nanthachote4work@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFY19uBc0Q/Prnz3ARAj_ql4oO6Q2Surw/view?utm_content=DAFY19uBc0Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFY19uBc0Q/Prnz3ARAj_ql4oO6Q2Surw/view?utm_content=DAFY19uBc0Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Nanthachote's Resumé](https://www.canva.com/design/DAFY19uBc0Q/Prnz3ARAj_ql4oO6Q2Surw/view?utm_content=DAFY19uBc0Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **My MBTI Testing is ISFJ.**
 

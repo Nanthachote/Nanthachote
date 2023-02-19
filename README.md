@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter Developer for Mobile Application**
 
-- 👯 I’m looking to collaborate on **SCB TechX and SCB Company**
+- 👯 I’m looking to collaborate on **a Company that can challange and improve my skills**
 
 - 📫 How to reach me **nanthachote4work@gmail.com**
 
